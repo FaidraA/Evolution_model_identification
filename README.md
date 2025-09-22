@@ -1,2 +1,7 @@
-# Evolution_model_detection_in_real_and_synthetic_networks
-This repository contains files related to the diploma thesis "Evolution model detection in real and synthetic networks"
+# Evolution model detection in real and synthetic networks
+
+Repository contents: 
+
+MetricsTest (notebook pertaining to the network metrics selection process)
+NetworkSelect (notebook that includes the dataset generation, the classifier selection process, and the classification of real-world networks)
+NetworkPartition (notebook containing the partitioning method selection, and its application on real-world networks)
