@@ -1,4 +1,4 @@
-# Evolution model detection in real and synthetic networks
+# Evolution model detection in synthetic and real-world networks
 
 Repository contents: 
 
