@@ -1,4 +1,4 @@
-# Evolution model detection in synthetic and real-world networks
+# Evolution model identification in synthetic and real-world networks
 
 This repository contains all files related to the Empirical Study part of the diploma thesis titled "Evolution model identification in synthetic and real-world networks".
 
